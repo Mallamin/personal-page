@@ -46,6 +46,15 @@ a {
     text-align: justify;
   }
 
+  .list-inline {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list-inline li {
+    display: inline-block;
+  }
+
 
 
 
