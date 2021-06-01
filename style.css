@@ -40,7 +40,11 @@ a {
     border-radius: 6px;
     text-align: center;
   }
-
+  .list-center {
+    margin: 0 auto;
+    width: 240px;
+    text-align: justify;
+  }
 
 
 
