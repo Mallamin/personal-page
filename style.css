@@ -56,6 +56,18 @@ a {
   }
 
 
+  .mediaIcons {
+    font-size: 30px;
+    color: rgba(96, 96, 96, 0.9);
+    margin: 0 7px;
+  }
+  
+  .mediaIcons:hover {
+    color: rgba(96, 96, 96, 2);
+  }
+  
+
+
 
 
 
